@@ -6,9 +6,13 @@ color:
   saturation: 0.6418404676951468
   rhythmicContrast: 0.22968507674522698
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#25064D'
+    - '#36175E'
+    - '#553285'
+    - '#7B52AB'
+    - '#9768D1'
 name: Coline Amadeus
+navigation:
+  - name: Accueil
+    id: 22c096d9-c0e9-4d42-829d-6bb99bc6d06b
+    type: content
